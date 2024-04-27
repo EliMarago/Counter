@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+25&display=swap");
+
+html {
+  background-image: url("https://t3.ftcdn.net/jpg/01/51/50/76/360_F_151507694_PiyN7AHSOYE6XrlGH7a1M9RYYi969EzO.jpg");
+}
+.container {
+  text-align: center;
+  margin-top: 9%;
+  font-size: 50px;
+  font-family: "Jersey 25", sans-serif;
+}
+.btn {
+  font-family: "Jersey 25", sans-serif;
+  font-size: 25px;
+  margin: 19px;
+  border: solid;
+  padding: 17px;
+  border-radius: 10px 10px 10px;
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 120px;
+}
+.counter {
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+}
+.btn:hover {
+  background-color: rgb(104, 104, 104);
+}
